@@ -1,5 +1,5 @@
 import XCTest
-@testable import WKTParserSDK
+@testable import WKTParser
 
 final class WKTParserTests: XCTestCase {
     func testExample() throws {
